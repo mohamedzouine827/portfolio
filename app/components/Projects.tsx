@@ -27,7 +27,7 @@ export default function Projects() {
             />
             
           </Link>
-          <div  className=" hidden md:absolute md:ml-10 md:text-xl md:font-bold md:mt-[-48px] md:text-white md:opacity-100 md:transition md:duration-400 md:ease-in-out md:hover:opacity-50 ">
+          <div  className=" hidden md:block md:absolute md:ml-10 md:text-xl md:font-bold md:mt-[-48px] md:text-white md:opacity-100 md:transition md:duration-400 md:ease-in-out md:hover:opacity-50 ">
             Flavours Fusion
           </div>
           </div>
