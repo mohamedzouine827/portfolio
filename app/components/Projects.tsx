@@ -17,7 +17,7 @@ export default function Projects() {
       <div className="mt-12 ml-4 md:ml-12">
         <div className="border-b-2 border-l-2 border-t-[0.001vh] border-r-[0.001vh] border-white h-[50vh] md:h-[40vh] w-[80vw] md:w-[52vw]  flex flex-col md:flex-row items-center justify-center md:justify-start ">
           <div>
-          <Link href="https://flavorsfusion.vercel.app">
+          <Link href="https://znagency.vercel.app">
             <Image
               src={Images.src}
               alt="Next.js"
